@@ -50,9 +50,3 @@ I am an **AI & Machine Learning** graduate with hands-on experience in AI-driven
 * **📰 Healthcare AI News Detector:** ML-powered tool to detect health-related misinformation.
 
 ---
-
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paras-kavitkar&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paras-kavitkar&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>

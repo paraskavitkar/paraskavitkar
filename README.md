@@ -26,7 +26,7 @@
 I am an **AI & Machine Learning** graduate with hands-on experience in AI-driven projects, embedded systems, and hardware engineering. I specialize in **rapid prototyping** and **problem-solving**, applying technical knowledge to develop innovative solutions.
 
 - 🏆 **National Recognition:** First Runner-Up at **DIPEX 2023** for the AI-Based Wheelchair project.
-- 🌍 **International Rank:** Achieved **Top 13** in the **Electronics Wings 2025** international competition.
+- 🌍 **International Rank:** Achieved **Top 14** in the **Electronics Wings 2025** international competition.
 - 💼 **Professional Background:** 2 years of experience providing custom computer assembly and hardware diagnostic services.
 
 ---
